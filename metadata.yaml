@@ -1,0 +1,33 @@
+_repo: A-Short-Essay-Toward-the-Improvement-of-PsalmodyOr-An-Enquiry-How-the-Psalms-of-David-Ought-t__30409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watts, Isaac
+    alias: Watts, I. (Isaac)
+    birthdate: 1674
+    deathdate: 1748
+    gutenberg_agent_id: '4876'
+    url: http://www.gutenberg.org/2009/agents/4876
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Watts
+description: ''
+gutenberg_issued: '2009-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psalmody'
+- !lcc 'ML'
+- !lcc 'BV'
+title: 'A Short Essay Toward the Improvement of Psalmody
+
+  Or, An Enquiry How the Psalms of David Ought to Be Translated into Christian Songs,
+  and How Lawful and Necessary It Is to Compose Other Hymns According to the Clearer
+  Revelations of the Gospel, for the Use of the Christian Church.'
+url: http://www.gutenberg.org/ebooks/30409
